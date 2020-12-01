@@ -7,6 +7,6 @@ package com.baizhi.dao;
  */
 public interface AdminDao {
 
-    void queryAll(String id);
+    void queryAll(String name);
 
 }
