@@ -11,6 +11,7 @@ import java.util.List;
  */
 public interface AdminDao {
 
+    void queryAll(String name);
     List<Admin> selectAll(String id);
 
 }
