@@ -1,6 +1,6 @@
-package com.baizhi.dao;
+package com.my.dao;
 
-import com.baizhi.entity.Admin;
+import com.my.entity.Admin;
 
 import java.util.List;
 
@@ -12,6 +12,7 @@ import java.util.List;
 public interface AdminDao {
 
     void queryAll(String name);
+
     List<Admin> selectAll(String id);
 
 }

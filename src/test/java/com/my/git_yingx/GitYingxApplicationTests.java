@@ -1,4 +1,4 @@
-package com.baizhi.git_yingx;
+package com.my.git_yingx;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

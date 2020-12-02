@@ -1,4 +1,4 @@
-package com.baizhi.git_yingx;
+package com.my.git_yingx;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

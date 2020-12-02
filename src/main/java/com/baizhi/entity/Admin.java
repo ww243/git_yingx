@@ -1,4 +1,4 @@
-package com.baizhi.entity;
+package com.my.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
